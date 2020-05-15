@@ -11,6 +11,9 @@ body{
 }
 
 @media screen and (max-width: 767px) and (max-width: 575px) {
+	#home .btn-cor{
+		margin-top: 30px;
+	}
 
 	#home{
 	  background: white;
